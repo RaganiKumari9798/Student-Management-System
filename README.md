@@ -4,6 +4,11 @@ A modern, responsive, and fully functional **Student Management System** built w
 
 ---
 
+## 🌐 Live Demo :
+https://student-management-system-red-omega.vercel.app/
+
+---
+
 ## ✨ Features
 
 * ➕ **Add New Students**: Easily add student details including Name, Email, and Course.
@@ -87,5 +92,7 @@ For support, open an issue on GitHub Issues or star ⭐ this repository if you f
 This project is licensed under the MIT License.
 
 ## 👤 Author
-Designed & Developed by: Ragani Kumari
-GitHub Link: https://github.com/RaganiKumari9798/Student-Management-System
+- Designed & Developed by:
+Ragani Kumari
+- GitHub Repo Link:
+ https://github.com/RaganiKumari9798/Student-Management-System
