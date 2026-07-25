@@ -59,16 +59,24 @@ Ensure you have the following installed on your system:
    ```
 
 ### 2. Navigate into the project directory:
+```
 cd Student-Management-System
+```
 
 ### 3.  Install project dependencies:
+```
 npm install
+```
 
 ### 4. Start the local development server:
+```
 npm run dev
+```
 
 ### 5. Open in Browser:
+```
 Open your browser and navigate to http://localhost:5173/ (or the URL shown in your terminal).
+```
 
 ---
 
